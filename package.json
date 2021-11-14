@@ -1,0 +1,25 @@
+{
+  "name": "hololive-wiki",
+  "version": "0.0.0",
+  "description": "Wrapper for the Hololive Fan Wiki API, based on node-fetch.",
+  "repository": "That-Guy977/hololive-wiki",
+  "homepage": "https://github.com/That-Guy977/hololive-wiki#readme",
+  "bugs": "https://github.com/That-Guy977/hololive-wiki/issues",
+  "files": [
+    "src"
+  ],
+  "main": "./src/index.js",
+  "author": "That_Guy977 <sirawit.andy977@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hololive",
+    "mediawiki",
+    "api"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}

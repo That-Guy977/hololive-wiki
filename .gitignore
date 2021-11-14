@@ -1,0 +1,8 @@
+/*
+.DS_Store
+
+!/src
+!.git*
+!package.json
+!*.md
+!LICENSE
