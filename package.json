@@ -17,9 +17,13 @@
     "api"
   ],
   "dependencies": {
-    "node-fetch": "^2.6.6"
+    "node-fetch": "^2.6.6",
+    "semver": "^7.3.5"
   },
   "devDependencies": {
     "eslint": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
