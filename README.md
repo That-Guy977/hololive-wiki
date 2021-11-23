@@ -16,4 +16,4 @@ This package is currently not ready for use.
 This repository is currently not accepting contributions.
 
 ## License
-See [LICENSE](LICENSE).
+See [License](LICENSE).
