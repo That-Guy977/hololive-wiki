@@ -17,6 +17,7 @@
     "api"
   ],
   "dependencies": {
+    "date-fns": "^2.26.0",
     "node-fetch": "^2.6.6",
     "semver": "^7.3.5"
   },
